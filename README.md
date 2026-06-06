@@ -1,5 +1,7 @@
 # onlineIDE
 
+# 具体功能请查看README.en.md
+
 ## 项目简介
 
 这是一个在线集成开发环境（Online IDE）项目，目前正在初始化中。
