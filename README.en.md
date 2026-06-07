@@ -2,11 +2,13 @@
 
 ## Project Overview
 
-This is an Online Integrated Development Environment (Online IDE) project currently in initial setup. Perhaps will add others features like agent-based code generator and a sandbox to run the service.
+This is an Online Integrated Development Environment (Online IDE) project currently in initial setup. Perhaps I will add others features like agent-based code generator and a sandbox to run the service.
 
 ## Current Status
 
 The project is in its early stages, and now we're focusing on the UI/UX, regardless of the authorization and the concurrency.
+And the UI of simple IDE is completed. I'm now attacking on the project view.
+Then I will prepare for the multi languages support.
 
 ## Technology Stack
 
