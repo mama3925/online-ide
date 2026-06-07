@@ -6,11 +6,13 @@ This is an Online Integrated Development Environment (Online IDE) project curren
 
 ## Current Status
 
-The project is in its early stages and currently contains only basic configuration files.
+The project is in its early stages, and now we're focusing on the UI/UX, regardless of the authorization and the concurrency.
 
 ## Technology Stack
 
-TBD - Please refer to future updates.
+next.js to cover the frontend and the backend. Our UI is based on nextjs, and the API service is based on the API routes and the server component.
+Monaco Editor: the code editor
+Langchain is used to orchester the workflow order
 
 ## Quick Start
 
@@ -28,6 +30,7 @@ cd onlineIDE
 - Code execution and debugging
 - Project file management
 - Multi-user collaboration support
+- simple agent 
 
 (More features to be added)
 
