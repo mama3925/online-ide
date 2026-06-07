@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This is an Online Integrated Development Environment (Online IDE) project currently in initial setup.
+This is an Online Integrated Development Environment (Online IDE) project currently in initial setup. Perhaps will add others features like agent-based code generator and a sandbox to run the service.
 
 ## Current Status
 
