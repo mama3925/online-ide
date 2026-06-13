@@ -1,6 +1,6 @@
 # onlineIDE
 
-## *具体功能与介绍请查看README.en.md*
+## *Please refer to the README.en.md for more details*
 
 ## 项目简介
 
